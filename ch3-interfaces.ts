@@ -8,7 +8,7 @@ interface Employee {
 }
 
 let emp1:Employee={
-	name:"Ashish",
+	name:"AshishJ",
 	age:29,
 	isWebDev:true,
 	company:"Softeon",
